@@ -1,3 +1,11 @@
+# Thiru Veleyudham's First CS193
+
+## Favorite Things about CS193:
+
+- Love that it is a student-run class, I feel we could learn a lot of experience from it and makes communication easier.
+- Rather than theory, it focuses on real-world application of expanding our project, which is essential.
+- No exams :)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -31,6 +39,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
 
 ### Support or Contact
 
